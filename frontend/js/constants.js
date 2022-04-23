@@ -1,9 +1,9 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; //Replace with your own contract address
+const contractAddress = "0x3F6605E79182f14851EfdBC58e44A37A106862E2"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to Wizard Worlds!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'Gensis Wizards are your key into the Wizard Worlds Realm.  This will act as a pass for future projects in the Wizard Worlds Metaverse.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
@@ -15,7 +15,7 @@ const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! �
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
 const p_public_mint = "No whitelist needed. Public minting is now open! 🎉";
 const button_presale_coming_soon = "Get on the Whitelist";
-const button_presale_mint_whitelisted = "Mint Your Special NFT";
+const button_presale_mint_whitelisted = "Mint Your Gensis Wizard";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
 const button_presale_already_minted = "Join The Community";
 const button_public_mint = "Mint Your NFT";
