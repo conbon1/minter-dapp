@@ -23,7 +23,7 @@
 }
 
 body {
-  background-color: var(--background-image);
+  background-image: var(--background-image);
   display: flex;
   flex-flow: column;
   height: 100vh;
