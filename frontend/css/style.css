@@ -8,9 +8,7 @@
   --font-primary: "Poppins", sans-serif;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --background: #005aa7; /* fallback for old browsers */
-  --background: -webkit-linear-gradient(to bottom, #005aa7, #fffde4); /* Chrome 10-25, Safari 5.1-6 */
-  --background: linear-gradient(to bottom, #005aa7, #fffde4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  --background-image: url("https://imgur.com/a/qIRDXqd");
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
   --accent-color: #2771e0;
@@ -25,7 +23,7 @@
 }
 
 body {
-  background-color: var(--bg-color);
+  background-color: var(--background-image);
   display: flex;
   flex-flow: column;
   height: 100vh;
