@@ -8,10 +8,11 @@
   --font-primary: "Poppins", sans-serif;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --background-image: url("https://imgur.com/a/qIRDXqd");
-  --font-color: #ffffff;
+  --bg-color: hsl(219, 79%, 32%);
+  --bg-color-transparent: #1553c780;
+  --font-color: #d8d0d0;
   --btn-bg-color: #ffffff;
-  --accent-color: #2771e0;
+  --accent-color: #6aa5fc;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
@@ -23,7 +24,7 @@
 }
 
 body {
-  background-image: var(--background-image);
+  background-color: var(--bg-color);
   display: flex;
   flex-flow: column;
   height: 100vh;
